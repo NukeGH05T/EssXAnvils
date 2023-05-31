@@ -1,0 +1,14 @@
+name: EssXAnvils
+version: 1.2
+main: me.essxanvils.EssXAnvils
+api-version: 1.19
+prefix: EssXAnvils
+authors: [NukeGH05T]
+description: Allows enchantment books with enchants above vanilla level to be used in the anvil
+commands:
+  EssentialsXAnvils:
+    aliases: [exa, essxa]
+    description: Main command of the plugin EssentialsXAnvils
+permissions:
+  essxanvils.reload:
+    default: op

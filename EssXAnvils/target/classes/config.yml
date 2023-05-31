@@ -1,0 +1,6 @@
+prefix: "[EssXAnvils]"
+
+#Return the enchantments from the book that do not support the item.
+#Ex: Diamond Sword + Enchantment Book(Sharpness 9 & Infinity) = Diamond Sword (Sharpness 9)
+#    It will return an enchanted book with Infinity when the Diamond Sword is enchanted if set to true.
+return-unused-enchant-book: true
