@@ -12,3 +12,5 @@ commands:
 permissions:
   essxanvils.reload:
     default: op
+  essxanvils.give:
+    default: op
